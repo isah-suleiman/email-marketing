@@ -1,9 +1,3 @@
----
-Title: "Marketing Campaign Analysis Using PostgreSQL"
-author: "Isah Suleiman"
-date: "February 20, 2025"
----
-
 # Marketing Campaign Analysis Using PostgreSQL
  
 *Analyzing marketing campaign metrics with PostgreSQL for actionable insights.*
